@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-VERSION=2022.08.54.04
+VERSION=2022.08.54.4
 
 if [ -e contents/ModPacks/*/Mods/enabled.json ]; then
   ./startserver.sh
